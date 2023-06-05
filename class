@@ -1,0 +1,4 @@
+class MyClass:
+    x=10
+m1 = MyClass()
+print(m1.x)
