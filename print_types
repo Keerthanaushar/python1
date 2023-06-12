@@ -1,0 +1,6 @@
+a=5
+b="keerthana"
+print(a)
+print(b )
+print(type(a))
+print(type(b))
