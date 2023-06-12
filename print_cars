@@ -1,0 +1,3 @@
+cars = {1,5,10, 4, 3, 22, 9, 2, 20}
+print(cars)
+print(type(cars))
