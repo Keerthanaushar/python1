@@ -1,0 +1,4 @@
+fruits = {"Tropical":["Apple","Grapes","Orange"],
+          "Rain":["150","80","70"]}
+print(fruits)
+print(type(fruits))
