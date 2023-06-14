@@ -1,0 +1,12 @@
+ name = 'keerthana ushar'
+for x in (name[4]):
+    print(len(name))
+    print('a' in name)
+    print(x)
+    print(name[-9:5])
+    print(name.upper())
+    print(name.lower())
+    print(name.strip())
+    print(name.split())
+    print(name.replace('u','t'))
+
