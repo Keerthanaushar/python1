@@ -1,0 +1,4 @@
+name = 'keerthana ushar'
+for x in (name[4]):
+    print(len(name))
+    print(x)
