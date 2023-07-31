@@ -1,0 +1,4 @@
+import json
+x = '{"name":"Keerthana", "age":22, "City":"Ernakulam"}'
+y = json.loads(x)
+print(type(y["age"]))
